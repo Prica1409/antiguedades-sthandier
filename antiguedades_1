@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/tu-usuario/antiguedades-sthandier.git
+git add .
+git commit -m "Inicializa landing page Antigüedades Sthandier"
+git push -u origin main
